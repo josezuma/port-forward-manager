@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is port-forward-manager?
-Manage port forwards.
+Port Forward Manager
 
 ## Dependencies?
 Python stdlib only.
